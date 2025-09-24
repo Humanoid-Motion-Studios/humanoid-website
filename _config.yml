@@ -4,7 +4,7 @@ theme: minima                   # simple built-in theme
 
 # Required for project sites so links resolve correctly:
 url: "https://humanoid-motion-studios.github.io"
-baseurl: "/humanoid-website"
+baseurl: ""
 
 # Controls the order of tabs in the top header (left → right)
 header_pages:
