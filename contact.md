@@ -1,3 +1,8 @@
+---
+layout: default
+title: Contact
+---
+
 We’d love to hear from you.
 
 - **Email:** info@humanoidmotionstudios.com  
