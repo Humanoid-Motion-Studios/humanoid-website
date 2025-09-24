@@ -1,12 +1,10 @@
 ---
 layout: default
-title: Humanoid Motion Studios
 ---
 
 # Humanoid Motion Studios
 
-At the forefront of autonomous humanoid motion systems.
-We're developing technologies for the future.
+At the forefront of autonomous humanoid motion systems. 
 
 ## About Us
 
@@ -23,9 +21,6 @@ We are pioneering humanoid robotics designed for real-time adaptive learning.
 - Footwork and adaptive movement for sparring humanoids
 - Real-time learning and reaction technologies
 - Integration of hardware and control systems
-
-### In Progress
-Updates, publications, and media coming soon.
 
 ## Community
 
