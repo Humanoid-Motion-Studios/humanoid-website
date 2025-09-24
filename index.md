@@ -31,6 +31,6 @@ We believe in collaboration. Join our community to shape the future of humanoid 
 
 We'd love to hear from you.
 
-- **Email:** [info@humanoidmotionstudios.com](mailto:info@humanoidmotionstudios.com)
+- **Email:** [geosomnium@gmail.com](mailto:geosomnium@gmail.com)
 - **GitHub:** https://github.com/Humanoid-Motion-Studios
 - **Location:** Los Angeles & Palo Alto, California
