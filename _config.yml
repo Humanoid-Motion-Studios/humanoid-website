@@ -7,8 +7,4 @@ url: "https://humanoid-motion-studios.github.io"
 baseurl: ""
 
 # Controls the order of tabs in the top header (left → right)
-header_pages:
-  - about.md
-  - research.md
-  - community.md
-  - contact.md
+
