@@ -1,10 +1,5 @@
-title:                      
-description: ""
-theme: jekyll-theme-slate
-
-# Required for project sites so links resolve correctly:
+title: "Humanoid Motion Studios"
+description: "At the forefront of autonomous humanoid motion systems"
+theme: minima
 url: "https://humanoid-motion-studios.github.io"
 baseurl: ""
-
-# Controls the order of tabs in the top header (left → right)
-
