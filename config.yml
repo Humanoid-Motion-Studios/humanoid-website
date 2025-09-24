@@ -1,0 +1,14 @@
+title: ""                       # hide the big site title bar
+description: ""
+theme: minima                   # simple built-in theme
+
+# Required for project sites so links resolve correctly:
+url: "https://humanoid-motion-studios.github.io"
+baseurl: "/humanoid-website"
+
+# Controls the order of tabs in the top header (left → right)
+header_pages:
+  - about.md
+  - research.md
+  - community.md
+  - contact.md
