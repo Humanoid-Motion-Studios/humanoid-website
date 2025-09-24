@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 # Community
 
 We believe in collaboration. Join our community to shape the future of humanoid robotics.
