@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Humanoid Motion Studios
 
 At the forefront of autonomous humanoid motion systems.  
