@@ -6,10 +6,6 @@ layout: default
 
 At the forefront of autonomous humanoid motion systems. 
 
-## About Us
-
-We are pioneering humanoid robotics designed for real-time adaptive learning.
-
 ### Our Team
 - Robotics experts
 - Strategists and builders  
