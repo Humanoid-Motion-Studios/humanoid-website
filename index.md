@@ -47,14 +47,14 @@ li {
 }
 </style>
 
-# Humanoid Motion Studios
+# S3 Motion Studios
 
 At the forefront of autonomous humanoid motion systems. 
 
 ### Our Team
 - Robotics experts
-- Strategists and builders  
-- Designers and visionaries
+- Autonomous systems experts
+- Strategists and builders 
 
 ## Research & Development
 
