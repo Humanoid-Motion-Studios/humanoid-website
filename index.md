@@ -59,7 +59,7 @@ At the forefront of autonomous humanoid motion systems.
 ## Research & Development
 
 ### Current Focus
-- Footwork and adaptive movement for sparring humanoids
+- Footwork and adaptive movement
 - Real-time learning and reaction technologies
 - Integration of hardware and control systems
 
