@@ -47,7 +47,7 @@ li {
 }
 </style>
 
-# S3 Motion Studios
+# S3 Motion Studios 
 
 At the forefront of autonomous humanoid motion systems. 
 
